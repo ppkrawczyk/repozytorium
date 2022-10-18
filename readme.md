@@ -25,5 +25,21 @@ Dodanie pliku .gitignore
 Dodanie strony kontakt
 ```
 
+## Szósty commit
+```
+Aktualizacja opisu rewizji
+```
+
+## Siódmy commit
+```
+Usunięcie pliku readme.md z .gitignore
+```
+
+## Ósmy commit
+```
+```
+Aktualizacja opisu rewizji w pliku readme.md
+```
+
 # Autor
 Patryk Krawczyk 
