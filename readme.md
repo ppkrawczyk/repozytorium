@@ -37,8 +37,12 @@ Usunięcie pliku readme.md z .gitignore
 
 ## Ósmy commit
 ```
-```
 Aktualizacja opisu rewizji w pliku readme.md
+```
+
+## Dziewiąty commit
+```
+Poprawienie opisu rewizji
 ```
 
 # Autor
